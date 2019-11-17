@@ -23,4 +23,4 @@ High scores are recorded and saved in localstorage.
 High scores get to save their initials.
 
 
-Really struggled with proper layout and wasn't too sure what the order of my code should be. 
+Really struggled with proper layout and wasn't too sure what the order of my code should be and was unsuccessful in creating a timer, keeping score and recording the initials of high scores. 
