@@ -73,18 +73,11 @@ function getNewQuestion(questionIndex) {
   answerEl4.innerText = choice4;
   // console.log(choice4);
 
-  var choice5 = question.choices[4];
-  var answerEl5 = document.getElementById("answer5");
-  answerEl5.innerText = choice5;
-  // console.log(choice5);
-
-
   document.getElementById("question").innerText = title;
   document.getElementById("answer1").innerText = choice1;
   document.getElementById("answer2").innerText = choice2;
   document.getElementById("answer3").innerText = choice3;
   document.getElementById("answer4").innerText = choice4;
-  document.getElementById("answer5").innerText = choice5;
 
 }
 //submitAnswer.addEventListener("click", quizTime);
